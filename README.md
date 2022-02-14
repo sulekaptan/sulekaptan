@@ -9,11 +9,9 @@
 
 <br/>
 
-
 🔭 I’m currently working on my final project
 
 🌱 I’m currently learning web and mobile programming
-
 <br/>
 
 ### Connect with me:
