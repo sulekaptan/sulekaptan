@@ -19,15 +19,15 @@
 
 ### Connect with me:
 
-[<img width="22" src="https://img.icons8.com/nolan/64/apple-mail.png" align="left"/>][mail][<img width="22" src="https://img.icons8.com/nolan/64/linkedin.png" align="left"/>][linkedin][<img width="22" src="https://img.icons8.com/nolan/64/twitter.png" align="left"/>][twitter]
+[<img width="22" src="https://img.icons8.com/nolan/apple-mail.png" align="left"/>][mail][<img width="22" src="https://img.icons8.com/nolan/linkedin.png" align="left"/>][linkedin][<img width="22" src="https://img.icons8.com/nolan/twitter.png" align="left"/>][twitter]
 
 [linkedin]: https://www.linkedin.com/in/sulekaptan/
 [instagram]: https://www.instagram.com/sulekaptann/
 [twitter]: https://www.twitter.com/sulekaptn/
-[mail]: sulekaptan00@gmail.com
+[mail]: mailto:sulekaptan00@gmail.com
 
 <br/>
 <br/>
 
-[![Şule's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulekaptan&theme=radical&include_all_commits=boolean&&hide=contribs&show_icons=true)](https://github.com/sulekaptan/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulekaptan&layout=compact&theme=radical&langs_count=10&card_width=445&exclude_repo=GameProject,MyDictionary,ClassMethodDemo)](https://github.com/sulekaptan/github-readme-stats)
+[![Şule's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulekaptan&theme=radical&include_all_commits=boolean&&hide=contribs&show_icons=true)](https://github.com/sulekaptan/)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulekaptan&layout=compact&theme=radical&langs_count=10&card_width=445&exclude_repo=GameProject,MyDictionary,ClassMethodDemo)](https://github.com/sulekaptan/)
