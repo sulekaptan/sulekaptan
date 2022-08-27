@@ -1,5 +1,5 @@
 
-## <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20there%F0%9F%91%BB,+I%27m+%C5%9Eule;">
+## <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=303F9F&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20there%F0%9F%91%BB,+I%27m+%C5%9Eule;">
 ---
 ### <p align="center"> I'm a computer engineer. </p>
 
