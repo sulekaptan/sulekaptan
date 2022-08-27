@@ -1,5 +1,5 @@
 
-## <p align="center">Hi there :ghost: I'm Şule. </p>
+## <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20there%F0%9F%91%BB,+I%27m+%C5%9Eule;">
 ---
 ### <p align="center"> I'm a computer engineer. </p>
 
@@ -8,7 +8,7 @@
 
 
 ### Languages and Tools
-<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25"><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25"><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25"><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25"><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="25" height="25"><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25"><img  src="https://img.icons8.com/color/64/000000/microsoft-sql-server.png" width="25" height="25"><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25">
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;![MsSQL](https://img.shields.io/badge/-MsSQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 <br/>
 
 🔭 I’m currently working on a bootcamp
