@@ -11,9 +11,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;![MsSQL](https://img.shields.io/badge/-MsSQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 <br/>
 
-🔭 I’m currently working on a bootcamp
+<!-- 🔭 I’m currently working on a bootcamp -->
 
-🌱 I’m currently learning frontend-backend
+🌱 I’m currently learning frontend development
 <br/>
 
 ### Connect with me:
