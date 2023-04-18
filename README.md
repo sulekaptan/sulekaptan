@@ -5,9 +5,10 @@
 
 <br/>
 
-🌱 I’m currently learning React, Next.js <br/>
+🌱 I’m currently learning React, Next and React Native <br/>
 :boom: I'm open to your suggestions to improve myself more! <br/> 
 :pencil: Here I write what I learned on this journey -> <a href="https://medium.com/@sulekaptan">Medium</a> <br/>
+:handshake: I'm open to work!
 
 ![](https://komarev.com/ghpvc/?username=sulekaptan&color=blueviolet) 
 <h3> Skills </h3>
