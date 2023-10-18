@@ -1,6 +1,5 @@
 #### Hi :ghost: I am Şule 
 
-- I'm a swift learner now! -ex fe <br/>
 - I’m currently learning Swift. <br/>
 - I'm open to your suggestions to improve myself more! <br/> 
 
